@@ -16,3 +16,7 @@ form div.custom_field_row {
 input #x_zip, input #x_card_num {
     width: 91%;
 }
+
+div .custom_form {
+    width: 80%;
+}
