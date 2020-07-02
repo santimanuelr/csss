@@ -1,6 +1,9 @@
 form div.custom_field_row {
-    text-align: center;
     border-bottom: 1px;
-    color: red;
-    background: red;
+}
+
+.custom_field input {
+    height: 22px!important;
+    padding-left: 10px!important;
+    border-color: rgb(209, 209, 209);
 }
