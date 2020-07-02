@@ -17,6 +17,6 @@ input #x_zip, input #x_card_num {
     width: 91%;
 }
 
-div .custom_form {
+#cc.custom_form {
     width: 80%;
 }
