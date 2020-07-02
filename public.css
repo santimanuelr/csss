@@ -7,3 +7,12 @@ form div.custom_field_row {
     padding-left: 10px!important;
     border-color: rgb(209, 209, 209);
 }
+
+.custom_field select {
+    height: 28px;
+    padding-left: 4px!important;
+}
+
+input #x_zip, input #x_card_num {
+    width: 91%;
+}
